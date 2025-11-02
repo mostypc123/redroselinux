@@ -1,0 +1,3 @@
+[submodule "airootfs/root/installer"]
+	path = airootfs/root/installer
+	url = https://github.com/redroselinux/redroselinuxinstaller
